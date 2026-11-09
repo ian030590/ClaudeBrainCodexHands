@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.claude/
+.codex/
+codex-workers/
+backups/
+hook-sandbox/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db

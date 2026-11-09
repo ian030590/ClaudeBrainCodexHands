@@ -1,0 +1,12 @@
+{
+  "name": "ClaudeBrainCodexHands",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Claude plans and verifies; Codex CLI implements through Claude Code hooks.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "test": "node --test"
+  }
+}
